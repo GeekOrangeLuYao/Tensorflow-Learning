@@ -10,7 +10,7 @@ Tensorflow 的架构：
 
 Tensorflow 数据流图是一种声明式的编程范式
 ![Alt Text](../../image/v1/tf-data-flow.png)
-更加关注于计算模型
+tensorflow 更加关注于计算模型
 
 Tensorflow 数据流图
 ![Alt Text](../../image/v1/tf-data-graph.png)
