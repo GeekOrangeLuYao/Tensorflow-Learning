@@ -23,6 +23,7 @@ sess.close()
 
 会话本地执行：
 对于单机程序来说，相同机器上不同编号的CPU或者GPU就是不同的设备，我们可以在创建节点时指定执行该节点的设备
+
 ```python
 with tf.device("/cpu:0):
     v = tf.Variable(...)
